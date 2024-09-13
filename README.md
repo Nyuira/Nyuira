@@ -1,4 +1,4 @@
-👋 Hi, I'm Peter Kanyurira, a seasoned IT Specialist with over 10 years of experience in spearheading technology strategies, data management, and information systems development. I specialize in ERP implementation, data visualization, IT infrastructure management, and leveraging technology to drive social impact in sectors such as health, education, and community development.
+👋 Hi, I'm Peter Kanyuira, a seasoned IT Specialist with over 9 years of experience in spearheading technology strategies, data management, and information systems development. I specialize in ERP implementation, data visualization, IT infrastructure management, and leveraging technology to drive social impact in sectors such as health, education, and community development.
 
 💼 Currently: Senior IT Officer at Save the Children International.
 🌱 Passionate about: Data Science, AI, Machine Learning, and transforming lives through technology.
