@@ -78,7 +78,7 @@ I'm a data scientist with 4 years of applied analytics experience and 2 years of
 ### 📫 Let's Connect
 
   - **LinkedIn:** [Your LinkedIn Profile URL]
-  - **Email:** your.email@domain.com
+  - **Email:** p.kanyuira@gmail.com
   - **Portfolio:** [Your Portfolio Website]
   - **Medium/Blog:** [Your Data Science Blog]
 
@@ -88,4 +88,3 @@ I'm a data scientist with 4 years of applied analytics experience and 2 years of
 
 -----
 
-*README last updated: {Month Year}*
