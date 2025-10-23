@@ -1,4 +1,4 @@
-# [Peter Kanyuira] | Data Scientist & IT Infrastructure Expert
+# Peter Kanyuira | Data Scientist & IT Infrastructure Expert
 
 ### 🚀 About Me
 
@@ -62,12 +62,15 @@ I'm a data scientist with 4 years of applied analytics experience and 2 years of
 
 -----
 
-### 📊 Certifications & Education
+### 🏅 Qualifications & Background
 
-  - ** Bachelors of Science** in Computer Information Science - [Kenya Methodist IUniversity], [2016]
-  - **AWS Certified Solutions Architect** - [Year]
-  - **Google Data Analytics Professional Certificate** - [Year]
-  - **Microsoft Certified: Azure Data Scientist Associate** - [Year]
+| Type | Detail | Status |
+| :--- | :--- | :--- |
+| **Master's** | Data Science & Analytics | Ongoing |
+| **Bachelor's** | Computer Information Systems | Completed |
+| **Certification** | Oracle Certified Professional (OCP) | Completed |
+| **Certification** | Cisco Certified Network Associate (CCNA) | Completed |
+| **Certification** | ITIL v4 Foundation | Ongoing |
 
 -----
 
