@@ -64,7 +64,7 @@ I'm a data scientist with 4 years of applied analytics experience and 2 years of
 
 ### 📊 Certifications & Education
 
-  - **[Degree Name]** in [Data Science/Related Field] - [University], [Year]
+  - ** Bachelors of Science** in Computer Information Science - [Kenya Methodist IUniversity], [2016]
   - **AWS Certified Solutions Architect** - [Year]
   - **Google Data Analytics Professional Certificate** - [Year]
   - **Microsoft Certified: Azure Data Scientist Associate** - [Year]
@@ -79,8 +79,7 @@ I'm a data scientist with 4 years of applied analytics experience and 2 years of
 
   - **LinkedIn:** https://www.linkedin.com/in/peterkanyuira/
   - **Email:** p.kanyuira@gmail.com
-  - **Portfolio:** [Your Portfolio Website]
-  - **Medium/Blog:** [Your Data Science Blog]
+
 
 -----
 
