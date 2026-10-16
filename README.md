@@ -1,92 +1,38 @@
-# Peter Kanyuira | Data Scientist & IT Infrastructure Expert
+# Peter Kanyuira
 
-### 🚀 About Me
+**IT & Security Lead · Apple & Endpoint Management · Microsoft Identity · Data & AI for humanitarian organisations**
+Nairobi, Kenya
 
-I'm a data scientist with 4 years of applied analytics experience and 2 years of specialized data science expertise, built on a foundation of 9+ years in IT infrastructure and cloud computing. My unique background allows me to bridge the gap between data generation systems and data-driven insights.
+I've spent 10+ years running IT for humanitarian and development organisations: Missions of Hope International, Church World Service, Save the Children and, today, the World Resources Institute, where I'm the Apple Environment Lead and IT Systems Analyst for the global team. I hold an MSc in Data Science and Analytics from Strathmore University, so I build the systems *and* the data products that run on them.
 
-**What I bring to the table:**
+## What I work on
 
-  - **Infrastructure Understanding:** Deep knowledge of how data flows through systems, from collection to storage
-  - **Analytical Rigor:** Strong skills in statistical analysis, machine learning, and data visualization
-  - **Full-Stack Data Perspective:** Ability to work with data from infrastructure-level to business intelligence
+- **Apple & endpoint management:** zero-touch Automated Device Enrollment, Jamf Pro, Jamf Connect, Self Service+, Apple Business Manager, Microsoft Intune
+- **Identity & security:** Microsoft Entra ID, Conditional Access, Defender for Endpoint, AWS security, data protection (Kenya DPA 2019, GDPR, NIST)
+- **Data & automation:** Python API pipelines, Power BI, Streamlit, Power Platform, Copilot Studio
+- **Machine learning:** predictive modelling, ensemble methods, model fairness checks
 
------
+## Featured projects
 
-### 💼 Technical Skills
+| Project | What it is | Stack |
+|---|---|---|
+| [Teacher Readiness Index](https://github.com/Nyuira/TRI-Project) | My MSc thesis: a validated instrument and stacking-ensemble model that predicts teachers' readiness for Kenya's Competency-Based Curriculum, with a Streamlit diagnostic dashboard | Python, scikit-learn, XGBoost, Streamlit |
+| [Elyon Elementaita Resort](https://elyon-elementaita-resort.vercel.app) | Guest-facing website plus an internal management system (restaurant ordering, staff tools, sales reporting) for a resort in Nakuru County | Next.js, TypeScript, Tailwind, Vercel |
+| [HIV-PMTCT Optimization](https://github.com/Nyuira/HIV-PMTCT-Optimization) | Forecasting HIV positivity in maternal and child health services from MOH 731 data, to guide PMTCT resource allocation | Python, XGBoost, Prophet, FastAPI |
 
-**Data Science & Analytics**
+## Results from my work
 
-  - **Languages:** Python, SQL, R
-  - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
-  - **Analysis:** Statistical Testing, Machine Learning, Time Series Analysis, A/B Testing
-  - **Visualization:** Tableau, Power BI, Plotly, Dash
-  - **Tools:** Jupyter, Git, Docker, Apache Spark
+- **WRI:** 25% fewer SLA breaches through service-desk workflow automation; Python pipeline on the Jamf Pro API feeding fleet-health dashboards for leadership
+- **Save the Children:** 60% increase in Power Platform adoption; procurement approvals 40% faster
+- **Church World Service:** 40% better audit scores through NIST/GDPR-aligned governance; 35% faster user provisioning with PowerShell and T-SQL automation
+- **Missions of Hope International (IT Director):** led the move to Microsoft Azure across 15 campuses (30% less downtime) and an ERP rollout that improved efficiency by 50%
 
-**IT Infrastructure & Cloud**
+## Certifications
 
-  - **Cloud Platforms:** AWS (EC2, S3, RDS, Redshift), Azure (Data Factory, SQL Database)
-  - **Infrastructure:** Linux/Windows Server, Network Security, Virtualization
-  - **Scripting:** PowerShell, Bash, Automation
-  - **Databases:** MySQL, PostgreSQL, SQL Server
+Oracle Database 11g Administration Certified Associate (OCA) · Cisco CCNA · Cloud and Network Security (Cyber Shujaa) · ITIL 4 Foundation (in progress)
 
------
+## Work with me
 
-### 📁 Portfolio Projects
+Available for consulting and freelance work in endpoint management, Microsoft 365 and Entra ID security, Power BI dashboards and data-protection readiness, personally or through [Innolex Limited](https://www.innolex.co.ke).
 
-#### [Project 1: Predictive Maintenance System]
-
-*Technologies: Python, Scikit-learn, SQL, Tableau*
-
-  - Developed ML model to predict hardware failures using system performance data
-  - Achieved 92% accuracy in predicting failures 48 hours in advance
-  - Reduced maintenance costs by 30% through proactive interventions
-  - [Link to live demo] | [Link to code]
-
-#### [Project 2: IT Operations Analytics Dashboard]
-
-*Technologies: SQL, Python, Tableau, AWS*
-
-  - Analyzed 2+ years of IT ticket data to identify system bottlenecks
-  - Built interactive dashboard reducing ticket resolution time by 25%
-  - Implemented automated reporting saving 15 hours/week manual work
-  - [Link to dashboard] | [Link to code]
-
-#### [Project 3: Customer Churn Prediction]
-
-*Technologies: Python, Pandas, Scikit-learn, MLflow*
-
-  - Built ensemble model predicting customer churn with 94% precision
-  - Engineered features from user behavior and system usage data
-  - Deployed model as REST API for real-time predictions
-  - [Link to model demo] | [Link to code]
-
------
-
-### 🏅 Qualifications & Background
-
-| Type | Detail | Status |
-| :--- | :--- | :--- |
-| **Master's** | Data Science & Analytics | Ongoing |
-| **Bachelor's** | Computer Information Systems | Completed |
-| **Certification** | Oracle Certified Professional (OCP) | Completed |
-| **Certification** | Cisco Certified Network Associate (CCNA) | Completed |
-| **Certification** | ITIL v4 Foundation | Ongoing |
-
------
-
-### 📈 GitHub Stats & Activity
-
------
-
-### 📫 Let's Connect
-
-  - **LinkedIn:** https://www.linkedin.com/in/peterkanyuira/
-  - **Email:** p.kanyuira@gmail.com
-
-
------
-
-**⚡ Fun Fact:** I've managed infrastructure supporting 10,000+ users while simultaneously building ML models to optimize those same systems\!
-
------
-
+[LinkedIn](https://www.linkedin.com/in/peterkanyuira/) · p.kanyuira@gmail.com
